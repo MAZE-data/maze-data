@@ -1,5 +1,5 @@
-NameUA;NameEN;DesUA;DesEN;AM;A/T;;;;;;Мова;UA
-Кусь);Bite;З'являється на місці курсора, тобто треба лиш вчасно тікати від нього;Appears at the cursor position, ie you only need to run away from it in time;1;1;;;;;;;
-Кулак;Fist;Рандомно спавниться за полем і прямує до центру;Randomly appears out of field and goes to the center;1;1;;;;;;;
-Ядерний кулак;Nuce fist;Пришвидшений кулак;Faster than fist;1,25;4;;;;;;;
-Заряд;Zap ball;Рандомно спавниться на полі і прямує за гравцем до кінця атаки;Randomly appears on the field and follow the player until the end of the attack;1;1;;;;;;;
+NameUA;NameEN;DesUA;DesEN;AM;A/T;;;;;;ГЊГ®ГўГ ;UA
+ ГЉГіГ±Гј);Bite;Г‡'ГїГўГ«ГїВєГІГјГ±Гї Г­Г  Г¬ВіГ±Г¶Ві ГЄГіГ°Г±Г®Г°Г , ГІГ®ГЎГІГ® ГІГ°ГҐГЎГ  Г«ГЁГё ГўГ·Г Г±Г­Г® ГІВіГЄГ ГІГЁ ГўВіГ¤ Г­ГјГ®ГЈГ®;Appears at the cursor position, ie you only need to run away from it in time;1;1;;;;;;;
+ГЉГіГ«Г ГЄ;Fist;ГђГ Г­Г¤Г®Г¬Г­Г® Г±ГЇГ ГўГ­ГЁГІГјГ±Гї Г§Г  ГЇГ®Г«ГҐГ¬ Ві ГЇГ°ГїГ¬ГіВє Г¤Г® Г¶ГҐГ­ГІГ°Гі;Randomly appears out of field and goes to the center;1;1;;;;;;;
+ГџГ¤ГҐГ°Г­ГЁГ© ГЄГіГ«Г ГЄ;Nuce fist;ГЏГ°ГЁГёГўГЁГ¤ГёГҐГ­ГЁГ© ГЄГіГ«Г ГЄ;Faster than fist;1,25;4;;;;;;;
+Г‡Г Г°ГїГ¤;Zap ball;ГђГ Г­Г¤Г®Г¬Г­Г® Г±ГЇГ ГўГ­ГЁГІГјГ±Гї Г­Г  ГЇГ®Г«Ві Ві ГЇГ°ГїГ¬ГіВє Г§Г  ГЈГ°Г ГўГ¶ГҐГ¬ Г¤Г® ГЄВіГ­Г¶Гї Г ГІГ ГЄГЁ;Randomly appears on the field and follow the player until the end of the attack;1;1;;;;;;;
